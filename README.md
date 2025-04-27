@@ -1,6 +1,6 @@
 # MDD
 
-> [!Nota]
+> [!NOTE]
 > Hola, soy Jeremi Muñoz
 
 
